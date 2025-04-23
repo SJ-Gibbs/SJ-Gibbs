@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @SJ-Gibbs 
 - I’m interested in all aspect of software development particularly DevOps
 - I’m currently learning java, HTML and javascript
-- I’m looking to collaborate on any beginner projects they have the opportunity for learning and advancement of skills
-- 📫 How to reach me ...
+- I’m looking to consildate my learning and reach a intermediate to advanced level on competency
